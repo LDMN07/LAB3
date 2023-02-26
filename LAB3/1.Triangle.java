@@ -28,7 +28,6 @@ public class Triangle {
         this.height = height;
     }
 
-    @Override
     public String toString() {
         return "Triangle [width=" + width + ", height=" + height + "]";
     }
